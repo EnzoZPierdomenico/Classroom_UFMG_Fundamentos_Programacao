@@ -1,0 +1,11 @@
+---
+title: "Aula 1 - Algoritmos e lógica de programação"
+format:
+  html:
+    code-copy: true
+    code-tools:
+      source: true
+      toggle: true # Opcional: esconde o botão de ocultar/mostrar códigos se não quiser
+---
+
+inser
